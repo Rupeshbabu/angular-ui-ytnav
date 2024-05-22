@@ -1,0 +1,3 @@
+Projct Creation :
+    - ng new <project-name> --standalone --inline-template --inline-style
+    - ng add @angular/material
